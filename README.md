@@ -1,5 +1,5 @@
 # Laboratory 1
-## Cooperating with Riccardo Vaccari (346978)
+## Cooperating with Riccardo Vaccari (348856)
 
 After setting up the knapsack problem according to the specifications provided by the professor, one can choose among three possible initializations.
 
